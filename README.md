@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-**Cyebukayire/Cyebukayire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an ✨AI enthusiast✨ with self motivation and natural passion
+for continous learning and development.
 
-Here are some ideas to get you started:
+I like to do things the right way and also believe you only get waht you want 
+in life through hardwork, dedication and commitment.
 
 - 🔭 I’m currently working on Deep Learning Project with Tensorflow and OpenCV-python.
 - 🌱 I’m currently learning AI in business, Computer Vision and Deep Learning.
