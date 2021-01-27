@@ -3,7 +3,7 @@
 I'm an ✨AI enthusiast✨ with self motivation and natural passion
 for continous learning and development.
 
-I like to do things the right way and also believe you only get waht you want 
+I like to do things the right way and also believe you only get what you want 
 in life through hardwork, dedication and commitment.
 
 - 🔭 I’m currently working on Deep Learning Project with Tensorflow and OpenCV-python.
