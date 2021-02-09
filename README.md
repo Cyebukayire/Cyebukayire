@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 I'm an ✨AI enthusiast✨ with self motivation and natural passion
 for continous learning and development.
@@ -10,5 +10,5 @@ in life through hardwork, dedication and commitment.
 - 🌱 I’m currently learning AI in business, Computer Vision and Deep Learning.
 - 👯 I’m looking to collaborate on Object Detection Projects.
 - 💬 Ask me about AI.
-- ⚡ Fun fact:I get paid for enjoying my hobby.
+- ⚡ Fun fact: I get paid for enjoying my hobby.
 
