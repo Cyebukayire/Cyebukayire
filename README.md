@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Cyebukayire Peace
+### Hi there 👋 My name is Peace Cyebukayire
 
 I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with self motivation and natural passion 
 for continous learning and development.
