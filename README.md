@@ -12,3 +12,6 @@ in life through hardwork, dedication and commitment.
 - 💬 Ask me about AI.
 - ⚡ Fun fact: I get paid for enjoying my hobby.
 
+
+
+![image](https://user-images.githubusercontent.com/55869293/120454831-86dae280-c394-11eb-9015-64e47fef9928.png)
