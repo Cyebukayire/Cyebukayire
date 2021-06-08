@@ -1,4 +1,8 @@
-### Hi there 👋 My name is Peace Cyebukayire
+### Hi there 👋 My name is Peace Cyebukayire!
+
+[image](https://user-images.githubusercontent.com/55869293/121231699-ff5c0a80-c890-11eb-824f-275ec0daaa97.png)
+
+
 
 I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with self motivation and natural passion 
 for continous learning and development.
