@@ -10,4 +10,4 @@ for continous learning and development.
 - ⚡ Fun fact: I get paid for enjoying my hobby.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=onedark)](https://github.com/Cyebukayire)
