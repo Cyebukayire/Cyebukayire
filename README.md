@@ -9,7 +9,7 @@ for continous learning and development.
 - 💬 Ask me about AI.
 - ⚡ Fun fact: I get paid for enjoying my hobby.
 
-<p style='color:blue'>Profile Status</p>
+@@ Profile Status
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=nord&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
