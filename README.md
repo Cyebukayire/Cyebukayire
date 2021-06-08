@@ -8,4 +8,6 @@ for continous learning and development.
 - 👯 I’m looking to collaborate on Object Detection Projects.
 - 💬 Ask me about AI.
 - ⚡ Fun fact: I get paid for enjoying my hobby.
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
