@@ -12,3 +12,5 @@ for continous learning and development.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=nord&margin-w=15&margin-h=15)](https://github.com/Cyebukayire)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&show_icons=true&theme=nord)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyebukayire&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
