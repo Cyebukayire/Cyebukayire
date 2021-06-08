@@ -12,7 +12,7 @@ for continous learning and development.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=nord&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
-☾🏅☾ My Github Stats:
+### ☾🏅☾ My Github Stats:
 
 
 
