@@ -14,4 +14,4 @@ for continous learning and development.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyebukayire&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyebukayire&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
