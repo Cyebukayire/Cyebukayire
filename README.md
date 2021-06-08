@@ -10,8 +10,8 @@ for continous learning and development.
 - ⚡ Fun fact: I get paid for enjoying my hobby.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=nord&margin-w=15&margin-h=15)](https://github.com/Cyebukayire)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=nord&margin-w=25&margin-h=25)](https://github.com/Cyebukayire)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&show_icons=true&theme=radical)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyebukayire&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
