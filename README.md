@@ -11,7 +11,7 @@ for continous learning and development.
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/Cyebukayire) -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=onedark&margin-w=15&margin-h=15)](https://github.com/Cyebukayire) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=onedark&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C) (https://github.com/Cyebukayire)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=onedark&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Cyebukayire)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=onedark&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Cyebukayire) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&rank=S&theme=onedark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&rank=S&theme=onedark) -->
