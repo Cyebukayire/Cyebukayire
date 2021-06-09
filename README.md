@@ -1,8 +1,5 @@
 ### Hi there 👋 My name is Peace Cyebukayire!
 
-[image](https://user-images.githubusercontent.com/55869293/121231699-ff5c0a80-c890-11eb-824f-275ec0daaa97.png)
-
-
 
 I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with self motivation and natural passion 
 for continous learning and development.
@@ -13,7 +10,11 @@ for continous learning and development.
 - 💬 Ask me about AI.
 - ⚡ Fun fact: I get paid for enjoying my hobby.
 
-@@ Profile Status
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">My Github Profile Trophy</h2>
+  <p align="center">🏆 Add dynamically generated GitHub Trophy on your readme</p>
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=nord&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
