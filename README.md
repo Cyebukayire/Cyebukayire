@@ -21,7 +21,7 @@ for continous learning and development.
 <p align="center">
 
 <p align="center">
-  <img width="140" src="https://www.vectorstock.com/royalty-free-vector/gold-medal-vector-9961501" />  
+  <img width="140" src="https://ibb.co/hF23jXS" />  
   <h2 align="center">My Github Stats</h2>
   <p align="center">🏅</p>
 </p>
