@@ -13,10 +13,12 @@ for continous learning and development.
 <p align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">My Github Profile Trophy</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Trophy on your readme</p>
+  <p align="center">🏆 </p>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=nord&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
+
+<p align="center">
 
 ### ☾🏅☾ My Github Stats:
 
@@ -27,3 +29,5 @@ for continous learning and development.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&margin-w=20&show_icons=true&theme=radical)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyebukayire&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
+  </p>
+
