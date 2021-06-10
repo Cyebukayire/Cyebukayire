@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Peace Cyebukayire!
 <img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>About me</h3>
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
 I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with 
 
 self motivation and natural passion for continous learning and development.
@@ -10,7 +10,7 @@ self motivation and natural passion for continous learning and development.
 
 <!-- START NEW SECTION -->
  <!-- CONNECT WITH ME LINKS -->
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>Connect with me</h3>
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
  
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Peace18771213) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peace-cyebukayire-b4a810187/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peacecyebukayire@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Peace.William.George/) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyebukayire) [![Twitter Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14957517/peace)[![Twitter Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cyebukayire)
 <hr>
@@ -18,7 +18,7 @@ self motivation and natural passion for continous learning and development.
   
  <!-- START NEW SECTION -->
 <!--  TOP Technologies That I use Daily  -->
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>My top technologies</h3>
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My top technologies</h3>
  
 [![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#) [![OpenCV Badge](https://img.shields.io/badge/OpenCV-35495E?style=for-the-badge&logo=OpenCV&logoColor=4FC08D)](#) [![Flask Badge](https://img.shields.io/badge/Flask-35495E?style=for-the-badge&logo=Flask&logoColor=4FC08D)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
@@ -73,6 +73,13 @@ self motivation and natural passion for continous learning and development.
 |My github statistics|My languages|Streaks|
 |-|-|-|
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Cyebukayire)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=Cyebukayire&theme=dark)
+
+<div align="center">
+
+## Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+</div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&margin-w=20&show_icons=true&theme=radical) -->
