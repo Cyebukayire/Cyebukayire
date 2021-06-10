@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Peace Cyebukayire!
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><</a>About me</h3>
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>About me</h3>
 
 I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with 
 self motivation and natural passion for continous learning and development.
@@ -14,7 +14,7 @@ self motivation and natural passion for continous learning and development.
  
  
 <!--  TOP Technologies That I use Daily  -->
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><</a>My top technologies</h3>
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>My top technologies</h3>
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 [![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
