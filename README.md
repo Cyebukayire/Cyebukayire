@@ -35,6 +35,23 @@ self motivation and natural passion for continous learning and development.
 [![HTML Badge](https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=HTML&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=CSS&logoColor=white)](#)
 
+ 
+[![VCode Badge](https://img.shields.io/badge/VCode-20232A?style=for-the-badge&logo=VCode&logoColor=61DAFB)](#) 
+[![Git Badge](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git&logoColor=61DAFB)](#) 
+[![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#) 
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=61DAFB)](#) 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=61DAFB)](#) 
+[![Linux Badge](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=Linux&logoColor=61DAFB)](#) 
+[![Windows Badge](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=Windows&logoColor=61DAFB)](#) 
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=Tailwind&logoColor=61DAFB)](#) 
+[![Workbench Badge](https://img.shields.io/badge/Workbench-20232A?style=for-the-badge&logo=Workbench&logoColor=61DAFB)](#) 
+[![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#) 
+[![Socket.io Badge](https://img.shields.io/badge/Socket.io-20232A?style=for-the-badge&logo=Socket.io&logoColor=61DAFB)](#) 
+[![npm Badge](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=61DAFB)](#) 
+[![JSON Badge](https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=JSON&logoColor=61DAFB)](#) 
+[![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#) 
+
+
  <hr>
 
 <p align="center">
