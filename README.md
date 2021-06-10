@@ -73,7 +73,14 @@ self motivation and natural passion for continous learning and development.
 |My github statistics|My languages|Streaks|
 |-|-|-|
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Cyebukayire)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=Cyebukayire&theme=dark)
+<hr>
 
+<!-- START NEW SECTION -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
+<br></div>
+<hr>
 
 <!-- START NEW SECTION -->
 <div align="center">
@@ -83,6 +90,7 @@ self motivation and natural passion for continous learning and development.
 <br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
 </div>
 
+<!-- START NEW SECTION -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
