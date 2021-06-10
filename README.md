@@ -69,7 +69,7 @@ self motivation and natural passion for continous learning and development.
  <h2 align="center"></h2>
   <p align="center"> </p>
 |My github statistics|My languages|Streaks|
-|-|-|-|
+
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Cyebukayire)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=Cyebukayire&theme=dark)
 
 
