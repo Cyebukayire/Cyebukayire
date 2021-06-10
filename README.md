@@ -1,10 +1,10 @@
 ### Hi there 👋 My name is Peace Cyebukayire!
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>About me</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with 
 
 self motivation and natural passion for continous learning and development.
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 <hr>
 
