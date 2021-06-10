@@ -33,9 +33,7 @@ self motivation and natural passion for continous learning and development.
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![HTML Badge](https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=HTML&logoColor=white)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=CSS&logoColor=white)](#)
-
- 
+[![CSS Badge](https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=CSS&logoColor=white)](#) 
 [![VCode Badge](https://img.shields.io/badge/VCode-20232A?style=for-the-badge&logo=VCode&logoColor=61DAFB)](#) 
 [![Git Badge](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git&logoColor=61DAFB)](#) 
 [![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#) 
