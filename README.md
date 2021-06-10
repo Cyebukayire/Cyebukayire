@@ -70,7 +70,7 @@ self motivation and natural passion for continous learning and development.
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![descholar's github stats](https://github-readme-stats.vercel.app/api?username=descholar-ceo&show_icons=true&theme=dark&hide_title=true)](https://github.com/descholar-ceo)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=descholar-ceo&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/descholar-ceo)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=descholar-ceo&theme=dark)
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Cyebukayire)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=Cyebukayire&theme=dark)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
