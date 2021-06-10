@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Peace Cyebukayire!
-<img align="right" alt="Coding" width="800" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<img align="right" alt="Coding" width="1500" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>About me</h3>
 I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with 
