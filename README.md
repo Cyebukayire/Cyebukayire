@@ -89,10 +89,10 @@ self motivation and natural passion for continous learning and development.
 
 <!-- START NEW SECTION -->
 <div align="center">
-
+ <br>
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+<br><details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
 </div>
 
 <!-- START NEW SECTION -->
