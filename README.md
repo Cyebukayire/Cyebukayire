@@ -68,10 +68,10 @@ self motivation and natural passion for continous learning and development.
 <p align="center">
  <h2 align="center"></h2>
   <p align="center"> </p>
+
 |My github statistics|My languages|Streaks|
-
+|-|-|-|
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Cyebukayire)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=Cyebukayire&theme=dark)
-
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&margin-w=20&show_icons=true&theme=radical) -->
