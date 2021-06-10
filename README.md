@@ -68,10 +68,17 @@ self motivation and natural passion for continous learning and development.
   <p align="center">🏅</p>
 </p>
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&margin-w=20&show_icons=true&theme=radical)
-
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyebukayire&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!--START_SECTION:waka-->
+
+Week: 02 June, 2021 - 09 June, 2021
+Ruby         4 hrs 57 mins   ███████████░░░░░░░░░░░░░░   43.78 % 
+ERB          4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.54 % 
+JavaScript   1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Other        34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+
+<!--END_SECTION:waka-->
   </p>
