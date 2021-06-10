@@ -39,15 +39,3 @@ self motivation and natural passion for continous learning and development.
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyebukayire&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
   </p>
-
-
-
-<p>
-  <details><summary>:zap: My Annual Contribution Stats</summary>
-<!-- </a><a href="https://github.com/tracy8">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tracy8&show_icons=true&theme=radical&line_height=27" alt="Tracy's github stats"/> -->
-</a><a href="https://github.com/Cyebukayire">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyebukayire&show_icons=true&theme=radical&line_height=27" alt="Tracy's github stats"/>
-</a>
- </details>
- </p>
