@@ -57,7 +57,9 @@ self motivation and natural passion for continous learning and development.
   <h2 align="center">My Github Profile Trophy</h2>
   <p align="center">🏆 </p>
 </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
+
 <p align="center">
 
 |My github statistics|My languages|Streaks|
