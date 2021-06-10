@@ -2,8 +2,9 @@
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>About me</h3>
 
 I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with 
-self motivation and natural passion for continous learning and development.
 
+self motivation and natural passion for continous learning and development.
+<hr>
 
  <!-- CONNECT WITH ME LINKS -->
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>Connect with me</h3>
