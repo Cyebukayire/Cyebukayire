@@ -14,7 +14,7 @@ self motivation and natural passion for continous learning and development.
  
  
 <!--  TOP Technologies That I use Daily  -->
- <img width="140" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png" /> Top Technologies and tools that I use dairly:
+ <img width="10" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png" /> Top Technologies and tools that I use dairly:
   
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
