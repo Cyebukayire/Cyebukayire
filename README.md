@@ -4,6 +4,8 @@
 I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with 
 
 self motivation and natural passion for continous learning and development.
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
 <hr>
 
 <!-- START NEW SECTION -->
