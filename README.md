@@ -14,17 +14,13 @@ self motivation and natural passion for continous learning and development.
  
  
 <!--  TOP Technologies That I use Daily  -->
-   ![image](https://user-images.githubusercontent.com/55869293/121495049-9207c100-c9d9-11eb-89c3-db877dbbfc46.png)Top Technologies and tools that I use dairly:
+   man_technologist Top Technologies and tools that I use dairly:
   
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 [![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
 [![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#)
 
- [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#) [![VueJS Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
-[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
-[![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
-[![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#)
 
 <p align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
