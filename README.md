@@ -21,7 +21,7 @@ self motivation and natural passion for continous learning and development.
 [![Swing Badge](https://img.shields.io/badge/-Swing-007396?style=for-the-badge&labelColor=black&logo=Swing&logoColor=007396)](#)
 [![Spring Badge](https://img.shields.io/badge/-Spring-007396?style=for-the-badge&labelColor=black&logo=Spring&logoColor=007396)](#)
 [![Maven Badge](https://img.shields.io/badge/-Maven-007396?style=for-the-badge&labelColor=black&logo=Maven&logoColor=007396)](#)
-
+[![Hibernate Badge](https://img.shields.io/badge/-Hibernate-007396?style=for-the-badge&labelColor=black&logo=Hibernate&logoColor=007396)](#)
 [![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
 [![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#) [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 <hr>
