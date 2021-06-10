@@ -6,7 +6,6 @@ I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with
 
 self motivation and natural passion for continous learning and development.
 
-<img align="left" alt="collaboration" width:"20" src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Handshake.gif"> 
 I’m looking to collaborate on
 ### Open-Source Projects
 
