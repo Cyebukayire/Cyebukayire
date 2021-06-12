@@ -51,7 +51,10 @@ self motivation and natural passion for continous learning and development.
 [![Socket.io Badge](https://img.shields.io/badge/Socket.io-20232A?style=for-the-badge&logo=Socket.io&logoColor=61DAFB)](#) 
 [![npm Badge](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=61DAFB)](#) 
 [![JSON Badge](https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=JSON&logoColor=61DAFB)](#) 
-[![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#) 
+[![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#)
+[![Networking Badge](https://img.shields.io/badge/Networking-20232A?style=for-the-badge&logo=Networking&logoColor=61DAFB)](#)
+[![AI Badge](https://img.shields.io/badge/AI-20232A?style=for-the-badge&logo=AI&logoColor=61DAFB)](#)
+[![Robotics Badge](https://img.shields.io/badge/Robotics-20232A?style=for-the-badge&logo=Robotics&logoColor=61DAFB)](#)
  
  <hr>
  
