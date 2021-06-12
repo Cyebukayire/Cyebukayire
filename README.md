@@ -55,13 +55,20 @@ self motivation and natural passion for continous learning and development.
 [![Networking Badge](https://img.shields.io/badge/Networking-35495E?style=for-the-badge&logo=Networking&logoColor=4FC08D)](#)
 [![AI Badge](https://img.shields.io/badge/AI-35495E?style=for-the-badge&logo=AI&logoColor=4FC08D)](#)
 [![Robotics Badge](https://img.shields.io/badge/Robotics-35495E?style=for-the-badge&logo=Robotics&logoColor=4FC08D)](#)
+[![Arduino Badge](https://img.shields.io/badge/Arduino-35495E?style=for-the-badge&logo=Arduino&logoColor=4FC08D)](#)
+[![IOT Badge](https://img.shields.io/badge/IOT-35495E?style=for-the-badge&logo=IOT&logoColor=4FC08D)](#)
 [![Embedded-Systems Badge](https://img.shields.io/badge/Embedded-Systems-20232A?style=for-the-badge&logo=Embedded-Systems&logoColor=4FC08D)](#)
+[![ESP8266-Boards Badge](https://img.shields.io/badge/ESP8266-Boards-20232A?style=for-the-badge&logo=ESP8266-Boards&logoColor=4FC08D)](#)
+[![Raspberry-Pi Badge](https://img.shields.io/badge/Raspberry-Pi-20232A?style=for-the-badge&logo=Raspberry-Pi&logoColor=4FC08D)](#)
 [![Routing Badge](https://img.shields.io/badge/-Routing-007396?style=for-the-badge&labelColor=black&logo=Routing&logoColor=007396)](#)
 [![VLANs Badge](https://img.shields.io/badge/-VLANs-007396?style=for-the-badge&labelColor=black&logo=VLANs&logoColor=007396)](#)
 [![Subnetting Badge](https://img.shields.io/badge/-Subnetting-007396?style=for-the-badge&labelColor=black&logo=Subnetting&logoColor=007396)](#)
 [![Internet Badge](https://img.shields.io/badge/-Internet-007396?style=for-the-badge&labelColor=black&logo=Internet&logoColor=007396)](#)
 [![VNC Badge](https://img.shields.io/badge/-VNC-007396?style=for-the-badge&labelColor=black&logo=VNC&logoColor=007396)](#)
-<!-- [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#) -->
+[![Electronics Badge](https://img.shields.io/badge/-Electronics-A8B9CC?style=for-the-badge&labelColor=white&logo=Electronics&logoColor=A8B9CC)](#)
+[![Sensors Badge](https://img.shields.io/badge/-Sensors-A8B9CC?style=for-the-badge&labelColor=white&logo=Sensors&logoColor=A8B9CC)](#)
+[![Motors Badge](https://img.shields.io/badge/-Motors-A8B9CC?style=for-the-badge&labelColor=white&logo=Motors&logoColor=A8B9CC)](#)
+[![RFID Badge](https://img.shields.io/badge/-RFID-A8B9CC?style=for-the-badge&labelColor=white&logo=RFID&logoColor=A8B9CC)](#)
 
  <hr>
  
