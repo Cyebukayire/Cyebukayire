@@ -58,7 +58,9 @@ self motivation and natural passion for continous learning and development.
 [![Embedded-Systems Badge](https://img.shields.io/badge/Embedded-Systems-20232A?style=for-the-badge&logo=Embedded-Systems&logoColor=4FC08D)](#)
 [![Routing Badge](https://img.shields.io/badge/-Routing-007396?style=for-the-badge&labelColor=black&logo=Routing&logoColor=007396)](#)
 [![VLANs Badge](https://img.shields.io/badge/-VLANs-007396?style=for-the-badge&labelColor=black&logo=VLANs&logoColor=007396)](#)
-[![Wireless-Networks Badge](https://img.shields.io/badge/-Wireless-Networks-007396?style=for-the-badge&labelColor=black&logo=Wireless-Networks&logoColor=007396)](#)
+[![Subnetting Badge](https://img.shields.io/badge/-Subnetting-007396?style=for-the-badge&labelColor=black&logo=Subnetting&logoColor=007396)](#)
+[![Internet Badge](https://img.shields.io/badge/-Internet-007396?style=for-the-badge&labelColor=black&logo=Internet&logoColor=007396)](#)
+[![VNC Badge](https://img.shields.io/badge/-VNC-007396?style=for-the-badge&labelColor=black&logo=VNC&logoColor=007396)](#)
 <!-- [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#) -->
 
  <hr>
