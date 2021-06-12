@@ -52,10 +52,15 @@ self motivation and natural passion for continous learning and development.
 [![npm Badge](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=61DAFB)](#) 
 [![JSON Badge](https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=JSON&logoColor=61DAFB)](#) 
 [![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#)
-[![Networking Badge](https://img.shields.io/badge/Networking-20232A?style=for-the-badge&logo=Networking&logoColor=61DAFB)](#)
-[![AI Badge](https://img.shields.io/badge/AI-20232A?style=for-the-badge&logo=AI&logoColor=61DAFB)](#)
-[![Robotics Badge](https://img.shields.io/badge/Robotics-20232A?style=for-the-badge&logo=Robotics&logoColor=61DAFB)](#)
- 
+[![Networking Badge](https://img.shields.io/badge/Networking-20232A?style=for-the-badge&logo=Networking&logoColor=4FC08D)](#)
+[![AI Badge](https://img.shields.io/badge/AI-20232A?style=for-the-badge&logo=AI&logoColor=4FC08D)](#)
+[![Robotics Badge](https://img.shields.io/badge/Robotics-20232A?style=for-the-badge&logo=Robotics&logoColor=4FC08D)](#)
+[![Embedded-Systems Badge](https://img.shields.io/badge/Embedded-Systems-20232A?style=for-the-badge&logo=Embedded-Systems&logoColor=4FC08D)](#)
+[![Routing Badge](https://img.shields.io/badge/-Routing-007396?style=for-the-badge&labelColor=black&logo=Routing&logoColor=007396)](#)
+[![VLANs Badge](https://img.shields.io/badge/-VLANs-007396?style=for-the-badge&labelColor=black&logo=VLANs&logoColor=007396)](#)
+[![Wireless-Networks Badge](https://img.shields.io/badge/-Wireless-Networks-007396?style=for-the-badge&labelColor=black&logo=Wireless-Networks&logoColor=007396)](#)
+<!-- [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#) -->
+
  <hr>
  
  
