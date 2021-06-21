@@ -69,7 +69,12 @@ self motivation and natural passion for continous learning and development.
 [![Sensors Badge](https://img.shields.io/badge/-Sensors-A8B9CC?style=for-the-badge&labelColor=white&logo=Sensors&logoColor=A8B9CC)](#)
 [![Motors Badge](https://img.shields.io/badge/-Motors-A8B9CC?style=for-the-badge&labelColor=white&logo=Motors&logoColor=A8B9CC)](#)
 [![RFID Badge](https://img.shields.io/badge/-RFID-A8B9CC?style=for-the-badge&labelColor=white&logo=RFID&logoColor=A8B9CC)](#)
-
+[![Scratch Badge](https://img.shields.io/badge/Scratch-35495E?style=for-the-badge&logo=Scratch&logoColor=4FC08D)](#)
+[![Blender Badge](https://img.shields.io/badge/Blender-35495E?style=for-the-badge&logo=Blender&logoColor=4FC08D)](#)
+[![Photoshop Badge](https://img.shields.io/badge/Photoshop-35495E?style=for-the-badge&logo=Photoshop&logoColor=4FC08D)](#)
+[![Krita Badge](https://img.shields.io/badge/Krita-35495E?style=for-the-badge&logo=Krita&logoColor=4FC08D)](#)
+[![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe Premiere Pro-35495E?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=4FC08D)](#)
+[![Video Badge](https://img.shields.io/badge/Video-35495E?style=for-the-badge&logo=Video&logoColor=4FC08D)](#)
  <hr>
  
  
