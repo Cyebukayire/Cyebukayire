@@ -18,7 +18,7 @@ self motivation and natural passion for continous learning and development.
   
  <!-- START NEW SECTION -->
 <!--  TOP Technologies That I use Daily  -->
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My top technologies</h3>
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My Tools And Technologies</h3>
  
 [![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#) [![OpenCV Badge](https://img.shields.io/badge/OpenCV-35495E?style=for-the-badge&logo=OpenCV&logoColor=4FC08D)](#) [![Flask Badge](https://img.shields.io/badge/Flask-35495E?style=for-the-badge&logo=Flask&logoColor=4FC08D)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
