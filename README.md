@@ -73,8 +73,8 @@ self motivation and natural passion for continous learning and development.
 [![Blender Badge](https://img.shields.io/badge/Blender-35495E?style=for-the-badge&logo=Blender&logoColor=4FC08D)](#)
 [![Photoshop Badge](https://img.shields.io/badge/Photoshop-35495E?style=for-the-badge&logo=Photoshop&logoColor=4FC08D)](#)
 [![Krita Badge](https://img.shields.io/badge/Krita-35495E?style=for-the-badge&logo=Krita&logoColor=4FC08D)](#)
-[![Premiere Pro Badge](https://img.shields.io/badge/Premiere Pro-35495E?style=for-the-badge&logo=Premiere Pro&logoColor=4FC08D)](#)
-[![OpenToons Badge](https://img.shields.io/badge/OpenToons-35495E?style=for-the-badge&logo=OpenToons&logoColor=4FC08D)](#)
+[![Adobe Badge](https://img.shields.io/badge/Adobe-35495E?style=for-the-badge&logo=Adobe&logoColor=4FC08D)](#)
+[![Opentoons Badge](https://img.shields.io/badge/Opentoons-35495E?style=for-the-badge&logo=Opentoons&logoColor=4FC08D)](#)
  <hr>
  
  
