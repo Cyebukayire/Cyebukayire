@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Peace Cyebukayire!
+### Hi there! 👋
 
 <img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
