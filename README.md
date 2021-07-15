@@ -13,7 +13,7 @@ self motivation and natural passion for continous learning and development.
  <!-- CONNECT WITH ME LINKS -->
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
  
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Peace18771213) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peace-cyebukayire-b4a810187/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peacecyebukayire@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/peace.cye/) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyebukayire) [![Twitter Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14957517/peace) [![Twitter Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cyebukayire)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Peace18771213) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peace-cyebukayire-b4a810187/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peacecyebukayire@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/peace.cye/) [![Twitter Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14957517/peace) [![Twitter Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cyebukayire)
 <hr>
  
   
@@ -46,13 +46,10 @@ self motivation and natural passion for continous learning and development.
 [![GitHub Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=61DAFB)](#) 
 [![Linux Badge](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=Linux&logoColor=61DAFB)](#) 
 [![Windows Badge](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=Windows&logoColor=61DAFB)](#) 
-[![Tailwind Badge](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=Tailwind&logoColor=61DAFB)](#) 
 [![Workbench Badge](https://img.shields.io/badge/Workbench-20232A?style=for-the-badge&logo=Workbench&logoColor=61DAFB)](#) 
-[![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#) 
 [![Socket.io Badge](https://img.shields.io/badge/Socket.io-20232A?style=for-the-badge&logo=Socket.io&logoColor=61DAFB)](#) 
 [![npm Badge](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=61DAFB)](#) 
 [![JSON Badge](https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=JSON&logoColor=61DAFB)](#) 
-[![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#)
 [![Networking Badge](https://img.shields.io/badge/Networking-35495E?style=for-the-badge&logo=Networking&logoColor=4FC08D)](#)
 [![AI Badge](https://img.shields.io/badge/AI-35495E?style=for-the-badge&logo=AI&logoColor=4FC08D)](#)
 [![Robotics Badge](https://img.shields.io/badge/Robotics-35495E?style=for-the-badge&logo=Robotics&logoColor=4FC08D)](#)
