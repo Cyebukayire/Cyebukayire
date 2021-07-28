@@ -114,7 +114,7 @@ self motivation and natural passion for continous learning and development.
 <!-- START NEW SECTION -->
 <div align="center">
  <br>
- <p align="centre"><b> Here is a random joke that'll make you laugh!</b></p>
+ <p align="centre"><b> Here is a random joke that'll mark your day!</b></p>
  
  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
