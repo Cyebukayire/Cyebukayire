@@ -19,7 +19,6 @@ self motivation and natural passion for continous learning and development.
  
   
  <!-- START NEW SECTION -->
-<!--  TOP Technologies That I use Daily  -->
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My Tools And Technologies</h3>
  
 [![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#) [![OpenCV Badge](https://img.shields.io/badge/OpenCV-35495E?style=for-the-badge&logo=OpenCV&logoColor=4FC08D)](#) [![Flask Badge](https://img.shields.io/badge/Flask-35495E?style=for-the-badge&logo=Flask&logoColor=4FC08D)](#)
@@ -132,7 +131,4 @@ self motivation and natural passion for continous learning and development.
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&margin-w=20&show_icons=true&theme=radical) -->
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyebukayire&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
   </p>
