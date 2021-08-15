@@ -5,7 +5,7 @@
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
 I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with 
 
-self motivation and natural passion for continous learning and development.
+self motivation and natural passion for continuous learning and development.
 
 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
