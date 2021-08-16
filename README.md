@@ -30,8 +30,6 @@ self motivation and natural passion for continuous learning and self-development
 [![Apache Badge](https://img.shields.io/badge/-Apache-007396?style=for-the-badge&labelColor=black&logo=Apache&logoColor=007396)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-A8B9CC?style=for-the-badge&labelColor=white&logo=PHP&logoColor=A8B9CC)](#)
 [![Ajax Badge](https://img.shields.io/badge/-Ajax-A8B9CC?style=for-the-badge&labelColor=white&logo=Ajax&logoColor=A8B9CC)](#)
-[![Angular Badge](https://img.shields.io/badge/-Angular-A8B9CC?style=for-the-badge&labelColor=white&logo=Angular&logoColor=A8B9CC)](#)
-[![JQuery Badge](https://img.shields.io/badge/-JQuery-A8B9CC?style=for-the-badge&labelColor=white&logo=JQuery&logoColor=A8B9CC)](#)
 [![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
 [![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#) 
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) 
