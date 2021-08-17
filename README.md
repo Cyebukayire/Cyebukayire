@@ -129,6 +129,9 @@ self motivation and natural passion for continuous learning and self-development
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
 </p>
-![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyebukayire&theme=react-dark)
+
+
+<!-- GITHUB ACTIVITY GRAPH -->
+![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=hezagon&theme=react-dark)
 
   </p>
