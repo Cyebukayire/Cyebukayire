@@ -131,6 +131,6 @@ self motivation and natural passion for continuous learning and self-development
 
 
 <!-- GITHUB ACTIVITY GRAPH -->
-![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyebukayire&theme=react-dark)
+<!-- ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyebukayire&theme=react-dark) -->
 
   </p>
