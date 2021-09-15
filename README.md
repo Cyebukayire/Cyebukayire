@@ -17,9 +17,8 @@ self motivation and natural passion for continuous learning and self-development
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Peace18771213) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peace-cyebukayire-b4a810187/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peacecyebukayire@gmail.com) [![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-007396?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/14957517/peace/) [![Dev Badge](https://img.shields.io/badge/Dev-000000?style=for-the-badge&logo=Dev&logoColor=white)](https://dev.to/cyebukayire)
 <hr>
  
-  
  <!-- START NEW SECTION -->
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My Tools And Technologies</h3>
+<!-- <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My Tools And Technologies</h3>
  
 [![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#) [![OpenCV Badge](https://img.shields.io/badge/OpenCV-35495E?style=for-the-badge&logo=OpenCV&logoColor=4FC08D)](#) [![Flask Badge](https://img.shields.io/badge/Flask-35495E?style=for-the-badge&logo=Flask&logoColor=4FC08D)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
@@ -77,7 +76,7 @@ self motivation and natural passion for continuous learning and self-development
 [![Opentoons Badge](https://img.shields.io/badge/Opentoons-35495E?style=for-the-badge&logo=Opentoons&logoColor=4FC08D)](#)
  <hr>
  
- 
+  --> -->
 <!-- START NEW SECTION -->
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
