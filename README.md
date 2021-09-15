@@ -76,7 +76,7 @@ self motivation and natural passion for continuous learning and self-development
 [![Opentoons Badge](https://img.shields.io/badge/Opentoons-35495E?style=for-the-badge&logo=Opentoons&logoColor=4FC08D)](#)
  <hr>
  
-  --> -->
+  --> 
 <!-- START NEW SECTION -->
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
