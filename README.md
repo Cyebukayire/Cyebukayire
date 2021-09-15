@@ -122,6 +122,10 @@ self motivation and natural passion for continuous learning and self-development
 <br>
 </div>
 
+<p align="center">
+  <img src="https://github.com/Cyebukayire/Cyebukayire/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 <!-- START NEW SECTION -->
 
 <p align="center">
