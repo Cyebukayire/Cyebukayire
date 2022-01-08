@@ -86,7 +86,7 @@ self motivation and natural passion for continuous learning and self-development
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire) -->
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Cyebukayire&column=8&margin-w=20&margin-h=15&no-bg=true&no-frame=true&theme=radical)](https://github.com/Cyebukayire)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Cyebukayire&column=8&margin-w=30&margin-h=25&no-bg=true&no-frame=true&theme=radical)](https://github.com/Cyebukayire)
 <hr>
 
 <!-- START NEW SECTION -->
