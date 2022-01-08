@@ -84,8 +84,14 @@ self motivation and natural passion for continuous learning and self-development
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
+ -->
+ <p align="center">
+  <img src="https://gpvc.arturio.dev/JayantGoel001" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel01&style=flat&color=brightgreen"> •    -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Cyebukayire?label=Followers&style=social&theme=radical"> •   
+  <img src="https://img.shields.io/github/stars/Cyebukayire?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 <hr>
 
 <!-- START NEW SECTION -->
