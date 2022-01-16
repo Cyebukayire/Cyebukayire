@@ -8,7 +8,7 @@ I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with
 
 self motivation and natural passion for continuous learning and self-development.
 
-Currently focusing on Maths and Physics
+Currently focusing on Vuejs, Maths and Physics
 
 <!-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects** -->
 
