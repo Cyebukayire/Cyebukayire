@@ -143,5 +143,5 @@ Currently using Js, Vuejs, React, and focusing on DevOps, Math and Physics
 
   </p>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=THANK YOU FOR VISITING :)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&theme=tokyonight"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Thank you for vising :) :)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&theme=tokyonight"/>
 
