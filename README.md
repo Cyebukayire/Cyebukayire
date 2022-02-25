@@ -1,5 +1,5 @@
 ### Hi there! 👋
-
+## Ask me anything [HERE](https://github.com/Cyebukayire/Cyebukayire/issues/1 "AMA")
 <!-- <img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif"> -->
 <img align="right" height="250" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 
