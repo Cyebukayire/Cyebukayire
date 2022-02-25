@@ -1,4 +1,9 @@
-### Hi there! 👋
+<!--  HEADER  -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Peace Cyebukayire&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;+I+SPECIALIZE+IN+WEB+DEVELOPMENT;AI+&+MACHINE+LEARNING;SOFTWARE+TESTING;AND+DEVOPS+>+4+YEARS+OF+PROGRAMMING;THNX+:%29)](https://git.io/typing-svg)
+
+
 ## Ask me anything [HERE](https://github.com/Cyebukayire/Cyebukayire/issues/1 "AMA")
 <!-- <img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif"> -->
 <img align="right" height="250" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
