@@ -142,3 +142,6 @@ Currently using Js, Vuejs, React, and focusing on DevOps, Math and Physics
 <!-- ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyebukayire&theme=react-dark) -->
 
   </p>
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=THANK YOU FOR VISITING :)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&theme=tokyonight"/>
+
