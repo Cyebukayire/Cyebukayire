@@ -1,7 +1,7 @@
 <!--  HEADER  -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Peace Cyebukayire&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&theme=tokyonight"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;+I+SPECIALIZE+IN+WEB+DEVELOPMENT,;SOFTWARE+TESTING,+AND+DEVOPS.;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING;AND+I+DO+ENJOY+DANCING+AND+PLAYING+VOLLEYBALL+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;+I+SPECIALIZE+IN+WEB+DEVELOPMENT,;SOFTWARE+TESTING,+AND+DEVOPS.;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING;I+ENJOY+DANCING+AND+PLAYING+VOLLEYBALL+:%29)](https://git.io/typing-svg)
 
 
 ## Ask me anything [HERE](https://github.com/Cyebukayire/Cyebukayire/issues/1 "AMA")
@@ -143,5 +143,5 @@ Currently using Js, Vuejs, React, and focusing on DevOps, Math and Physics
 
   </p>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Thank you for visiting :)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&backgroundColor=tokyonight"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Thank you :)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&backgroundColor=tokyonight"/>
 
