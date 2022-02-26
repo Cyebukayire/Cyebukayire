@@ -1,5 +1,7 @@
 <!--  HEADER  -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Peace Cyebukayire&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&theme=tokyonight"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Peace Cyebukayire&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&theme=tokyonight"/> -->
+![header](https://user-images.githubusercontent.com/55869293/155837387-248b7ed2-bdb4-4f03-9c13-8b82f2513cc0.png)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;+I+SPECIALIZE+IN+WEB+DEVELOPMENT,;SOFTWARE+TESTING,+AND+DEVOPS.;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING;I+ENJOY+DANCING+AND+PLAYING+VOLLEYBALL+:%29)](https://git.io/typing-svg)
 
