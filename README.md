@@ -8,7 +8,7 @@
 
 
 ### CHECK OUT MY PORTFOLIO [HERE](https://cyebukayire.netlify.app/)
-<img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<!-- <img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif"> -->
 <!-- <img align="right" height="200" width="200" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
