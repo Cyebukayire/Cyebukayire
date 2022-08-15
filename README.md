@@ -4,7 +4,7 @@
 ![Profile Header](https://user-images.githubusercontent.com/55869293/174072842-a386f935-b50d-4abd-bdce-b2982cf6e9c5.gif)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;Meet+a+Pythonista,;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING;I+ENJOY+DANCING+AND+PLAYING+VOLLEYBALL+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;MEET+A+PYTHONISTA,;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING;I+ENJOY+DANCING+AND+PLAYING+VOLLEYBALL+:%29)](https://git.io/typing-svg)
 
 
 ### CHECK OUT MY PORTFOLIO [HERE](https://cyebukayire.netlify.app/)
