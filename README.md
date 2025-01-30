@@ -11,7 +11,7 @@
 <!-- <img align="right" height="200" width="200" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
-I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with 
+I'm a Full-Stack Software Developer and an ✨AI and scientific computing enthusiast✨ with 
 
 self motivation and natural passion for continuous learning and self-development.
 
