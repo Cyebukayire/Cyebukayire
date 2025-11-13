@@ -107,13 +107,6 @@ self motivation and natural passion for continuous learning and self-development
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Cyebukayire)|![Cyebukayire]
 <hr>
 
-<!-- START NEW SECTION -->
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cyebukayire}/count.svg" /></p> 
-<br></div>
-
-
 <p align="center">
 <!-- <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
  <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
